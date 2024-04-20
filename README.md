@@ -6,7 +6,7 @@
 ### 主要特色
 
 1. 纯粹的师大蓝：两种颜色分别取自官网和校徽，再设置不同透明度进行组合
-2. 极致的矢量图：可以直接使用*Tikz*作图，包括封面校徽logo也是[*Tikz*作出的矢量图](https://www.github.com/LeyuDame/BNU_icon_Tikz)
+2. 极致的矢量图：可以直接使用*Tikz*作图，包括封面校徽logo也是[*Tikz*作出的矢量图](https://github.com/LeyuDame/BNU_icon_Tikz)
 3. 数学字体选用了个人认为比较好看的Fourier（中文字体默认为微软雅黑）
 4. 与BNU图书馆官方毕业论文$\LaTeX{}$模板语法一致，可以实现无缝迁移，例如
    - 向量，矩阵，张量等采用加粗斜体： `\symbf{r}` --> $\boldsymbol{r}$ 

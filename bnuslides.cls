@@ -1,3 +1,6 @@
+% Author: LeyuDame
+% Date: 2024-04-20
+% Github: https://github.com/LeyuDame/BNUslides
 \ProvidesClass{bnuslides}
 \LoadClass[aspectratio=169]{ctexbeamer}
 
