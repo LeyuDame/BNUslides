@@ -1,3 +1,4 @@
+#! https://zhuanlan.zhihu.com/p/693603266
 ## BNUslides：一份简洁的师大蓝主题Beamer
 
 <img src="https://pauline.oss-cn-shenzhen.aliyuncs.com/img/202404201820201.webp" style="zoom:50%;" />
@@ -20,4 +21,4 @@
 
 Overleaf（等待发布中）：开箱即用，但后期不一定会更新
 
-[Github]()：不定期更新
+[Github](https://github.com/LeyuDame/BNUslides)：不定期更新
