@@ -18,6 +18,6 @@
 
 编译请使用`xelatex*2`，否则目录无法正常显示
 
-Overleaf（等待发布中）：开箱即用，但后期不一定会更新
+[Overleaf](https://www.overleaf.com/latex/templates/bnuslides/txrjnsqpqqkh)：开箱即用，但后期不一定会更新
 
 [Github](https://github.com/LeyuDame/BNUslides)：不定期更新
